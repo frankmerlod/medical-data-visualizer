@@ -29,7 +29,7 @@ Este proyecto se enfoca en visualizar datos médicos para analizar posibles fact
 ## 📊 Datos: Origen y Descripción:
 
 - **Fuente:** Conjunto de datos proporcionado por FreeCodeCamp.
-- **Contenido:** Datos historicos de pacientes con diferentes condiciones médicas.
+- **Contenido:** Datos históricos de pacientes con diferentes condiciones médicas.
 
 
 <!--horizontal divider(gradiant)-->
