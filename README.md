@@ -34,4 +34,6 @@ Este proyecto se enfoca en visualizar datos médicos para analizar posibles fact
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 ![heatmap](https://github.com/user-attachments/assets/e7ad62a3-c9cc-420b-9d0b-8899905b500a)
